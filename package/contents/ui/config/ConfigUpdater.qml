@@ -1,6 +1,5 @@
 /*
  * Copyright (C) 2019 by intika <intika@librefox.org>
- * Copyright (C) 2017-2018 by Norbert Eicker <norbert.eicker@gmx.de>
  *
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public License as
